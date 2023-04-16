@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "amm@gmail.com",
+      "password": "$2a$10$JzS/R5mEntAdZIz5p1ARH.iNB6VLcqcuPD12jFQp008aReT7Y65ba",
+      "name": "Aung Myat Moe",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "body": "Post content",
+      "userId": 1
+    }
+  ]
+}
